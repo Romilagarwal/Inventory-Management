@@ -1,0 +1,6 @@
+/BAK/
+DATABASE FILE/*.bak
+*.log
+.DS_Store
+Thumbs.db
+stock-management/config/config.php
